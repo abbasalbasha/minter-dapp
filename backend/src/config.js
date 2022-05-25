@@ -8,7 +8,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "Reflection of a Cryptominer";
-const description = "With the Merge approaching, ETH Bomb's time ticking, cryptominers find themselves facing an unknown mining future. As they contemplate their situation, they might be positively inspired.";
+const description = "As the ETH Merge is approaching, the difficulty Bomb's time ticking, cryptominers find themselves facing an unknown mining future. As they contemplate their situation, they might be positively inspired.";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
@@ -47,6 +47,9 @@ const format = {
 
 const extraMetadata = {
   external_url: "https://codecats.xyz", // Replace with your website or remove this line if you do not have one.
+  Discord: "https://discord.gg/TkH46B34Qv",
+  twitter: "https://twitter.com/CryptoM99261517",
+  creator: "ALBASHA",
 };
 
 // NFTPort Info
